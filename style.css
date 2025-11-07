@@ -1,0 +1,3 @@
+#rocket {position: absolute; bottom: 50px; transition: height 2s; }
+#chart {position: absolute; bottom: 0px; width: 10px; height: 0 background: lime; transition: height 2s; }
+body {background: black; }
